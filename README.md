@@ -2,7 +2,7 @@
 
 Collection of reusable Oracle DBA utility scripts created to practice and demonstrate practical database administration tasks.
 
-The goal of this repository is to build small, focused scripts that can help inspect, audit and monitor Oracle database environments.
+The goal of this repository is to build small, focused scripts that help inspect, audit and monitor Oracle database environments.
 
 ---
 
